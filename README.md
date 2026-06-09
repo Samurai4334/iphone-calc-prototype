@@ -1,4 +1,4 @@
-# Mini iPhone-Style Calculator
+# iPhone Calc Prototype
 
 A compact desktop calculator built with Python and Tkinter. The interface is inspired by the iPhone calculator, with circular buttons, orange operator controls, keyboard input, and a small window that is easy to run locally.
 
@@ -11,12 +11,12 @@ A compact desktop calculator built with Python and Tkinter. The interface is ins
 - Per-operand input limit so numbers do not overflow the display
 - Scientific notation for very large or tiny results
 - Repeated equals does not change the completed result
-- Compact mini-window layout
+- Compact prototype window layout
 
 ## Project Structure
 
 ```text
-mini-calculator/
+iphone-calc-prototype/
 ├── simple_calculator.py
 ├── README.md
 ├── CODE_WALKTHROUGH.md
@@ -40,7 +40,7 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-url>
-cd mini-calculator
+cd iphone-calc-prototype
 ```
 
 Create a virtual environment:

@@ -23,7 +23,7 @@ class CalculatorApp:
     # expanding to fill the whole laptop screen.
     WINDOW_WIDTH = 330
     WINDOW_HEIGHT = 520
-    WINDOW_TITLE = "Mini Calculator"
+    WINDOW_TITLE = "iPhone Calc Prototype"
 
     # Display positioning and font sizes. Keeping these as constants avoids
     # hard-coded "magic numbers" inside the drawing methods.

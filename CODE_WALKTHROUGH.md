@@ -17,7 +17,7 @@ This calculator has three major parts:
 ## File Structure
 
 ```text
-mini-calculator/
+iphone-calc-prototype/
 ├── simple_calculator.py
 ├── README.md
 ├── CODE_WALKTHROUGH.md
